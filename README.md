@@ -1,1 +1,2 @@
 # ci-hybrid-demo
+[![Node CI (simple)](https://github.com/yelinthant-kyoukasan/ci-hybrid-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/yelinthant-kyoukasan/ci-hybrid-demo/actions/workflows/ci.yml)
